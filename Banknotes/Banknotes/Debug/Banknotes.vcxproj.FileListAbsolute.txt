@@ -1,0 +1,4 @@
+C:\Users\The_Same_Gleb\source\repos\Banknotes\Banknotes\Debug\Banknotes.vcxproj.AssemblyReference.cache
+C:\Users\The_Same_Gleb\source\repos\Banknotes\Banknotes\Debug\Banknotes.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\The_Same_Gleb\source\repos\Banknotes\Banknotes\Debug\Banknotes.MyForm.resources
+C:\Users\The_Same_Gleb\source\repos\Banknotes\Banknotes\Debug\Banknotes.vcxproj.GenerateResource.cache
